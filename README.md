@@ -1,14 +1,68 @@
-### 🎥 Demo Video
+---
 
-Watch the working demo of the AI-Based Cyber Security Threat Prediction AI Agent here:
+## 🎥 Demo Video & Feature Showcase
+
+Below are the key modules of the **AI-Based Cyber Security Threat Prediction Agent** along with working demos.
+
+---
+
+### 🧭 1️⃣ Dashboard Overview  
+The main dashboard provides a centralized interface to monitor detected threats and navigate to different modules effortlessly.
+
 ![1](https://github.com/user-attachments/assets/ec0dcd69-d0c9-4936-9912-030ab7f6dd3e)
+
+---
+
+### 📰 2️⃣ Static Data Analysis  
+Analyzes historical datasets to uncover hidden attack patterns and detect abnormal activities in stored logs.
+
 ![2](https://github.com/user-attachments/assets/56cf94d7-5b37-48c1-af9a-c76e37ac007e)
+
+---
+
+### 🔄 3️⃣ Streaming Data Monitoring  
+Monitors real-time incoming traffic/logs and instantly detects ongoing suspicious activity with alert generation.
+
 ![3](https://github.com/user-attachments/assets/67e467ba-47f4-472f-9124-437d5b719a5d)
+
+---
+
+### 🌐 4️⃣ Network Analysis  
+Visualizes network nodes and communication mapping with threat highlights to spot compromised devices.
+
 ![4](https://github.com/user-attachments/assets/ddce468f-d5c5-4a1d-9239-2b7940d8995b)
+
+---
+
+### 🤖 5️⃣ Machine Learning Prediction  
+Uses trained ML models to classify threats with confidence scores, helping identify risky behavior proactively.
+
 ![5](https://github.com/user-attachments/assets/12ceb73b-85f1-4ca4-ac25-ab536cc4d9f2)
+
+---
+
+### 📊 6️⃣ Threat Reports  
+Auto-generates structured threat analysis reports useful for cyber security auditing and compliance.
+
 ![6](https://github.com/user-attachments/assets/f111be47-979e-4a92-9d74-e16afc79c972)
+
+---
+
+### 💬 7️⃣ AI Chatbot Assistant  
+A smart chatbot that answers security queries and provides rapid threat insights using Natural Language.
+
 ![Screen Recording 2025-12-03 160336](https://github.com/user-attachments/assets/d1271cd2-7a3e-4c80-a50f-f36f27ce221b)
+
+---
+
+### 🌍 8️⃣ Threat Map Visualization  
+Displays live geographic locations of global cyber attacks to track cross-border threat origin.
+
 ![Screen Recording 2025-12-03 160336 (1)](https://github.com/user-attachments/assets/35a8628e-c00e-4f4f-83ba-7b3eaf504d67)
+
+---
+
+
 
 
 
