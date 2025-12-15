@@ -9,9 +9,7 @@ https://youtu.be/_PJCx-k-GpI
 [Agile document group1.xls](https://github.com/user-attachments/files/24132761/Agile.document.group1.xls)
 
 #Architecture
-<img width="3630" height="4317" alt="image" src="https://github.com/user-attachments/assets/fffbb246-a908-46d5-b196-4011ca2560b5" />
-
-
+<img width="1280" height="687" alt="architecture" src="https://github.com/user-attachments/assets/ed13d4f5-71e9-4606-affa-6b2cff6aa3d9" />
 
 
 ## 🎥 Demo Video & Feature Showcase
