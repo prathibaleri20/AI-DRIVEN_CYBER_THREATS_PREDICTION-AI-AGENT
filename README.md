@@ -9,7 +9,8 @@ https://youtu.be/_PJCx-k-GpI
 [Agile document group1.xls](https://github.com/user-attachments/files/24132761/Agile.document.group1.xls)
 
 #Architecture
-![Architecture](https://github.com/user-attachments/assets/95145c25-c2a3-4eae-b9d4-0213a2a453c1)
+![WhatsApp Image 2025-12-04 at 11 22 29 PM](https://github.com/user-attachments/assets/2f12f392-7c02-4b9b-870e-0692eebb73ec)
+
 
 
 ## 🎥 Demo Video & Feature Showcase
