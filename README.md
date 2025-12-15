@@ -8,6 +8,9 @@ https://youtu.be/_PJCx-k-GpI
 #AGILE DOCUMENT
 [Agile document group1.xls](https://github.com/user-attachments/files/24132761/Agile.document.group1.xls)
 
+#Architecture
+![Architecture](https://github.com/user-attachments/assets/95145c25-c2a3-4eae-b9d4-0213a2a453c1)
+
 
 ## 🎥 Demo Video & Feature Showcase
 
